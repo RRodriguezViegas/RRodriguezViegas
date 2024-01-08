@@ -15,6 +15,7 @@ Las principales tecnologías que manejo son:
 
 ### Contacto
 [Linkedin](https://www.linkedin.com/in/ramiro-rodriguez-viegas-1562171aa/)
+
 Email: ramiirv26@gmail.com
 
 <!--
