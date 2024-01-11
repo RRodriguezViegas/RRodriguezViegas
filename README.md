@@ -2,7 +2,7 @@
 
 I'm a fullstack developer passionate about technology since I was little
 
-### technologies
+### Technologies
 I mainly code on 
 
 - **Javascript** 
@@ -13,7 +13,7 @@ I mainly code on
 - **Sequelize**
 - **GIT**
 
-### contact
+### Contact
 [Linkedin](https://www.linkedin.com/in/ramiro-rodriguez-viegas-1562171aa/)
 
 Email: ramiirv26@gmail.com
